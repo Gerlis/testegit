@@ -9,6 +9,6 @@
 
 
 
-echo "olá Git";
+echo "olá GitHub";
 
 ?>
