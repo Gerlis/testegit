@@ -9,6 +9,6 @@
 
 
 
-echo "olá GitHub";
+echo "olá Curso GitHub";
 
 ?>
